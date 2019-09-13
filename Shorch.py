@@ -1,3 +1,4 @@
+# Borrowed from BullsEye0 shodan-eye project  https://github.com/BullsEye0/shodan-eye
 import os
 import random
 import shodan
