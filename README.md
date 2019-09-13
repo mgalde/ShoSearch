@@ -1,6 +1,6 @@
 # Shorch
 
-<img src="shorch.png" alt="SHORCH" width="200"/>
+<img src="Shorch.png" alt="SHORCH" width="200"/>
 
 Searching SHODAN.IO with a python script
 
